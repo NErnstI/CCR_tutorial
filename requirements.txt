@@ -1,5 +1,5 @@
-numpy as np
-math as math
+numpy
+math
 matplotlib
 scipy
 mdtraj
